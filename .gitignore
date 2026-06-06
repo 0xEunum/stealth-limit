@@ -1,5 +1,8 @@
 # Dependencies
 node_modules/
+contracts/node_modules/
+frontend/node_modules/
+server/node_modules/
 
 # Foundry
 out/
