@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+contracts/node_modules/
+frontend/node_modules/
+server/node_modules/
+
+# Foundry
+out/
+cache/
+broadcast/
+
+# Environment
+.env
+
+# Deployments
+deployments/
+
+# OS
+.DS_Store

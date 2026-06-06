@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/0xEunum/stealth-limit/issues"
   },
-  "homepage": "https://github.com/0xEunum/stealth-limit#readme"
+  "homepage": "https://github.com/0xEunum/stealth-limit#readme",
+  "devDependencies": {
+    "vite-plugin-wasm": "^3.6.0"
+  }
 }
